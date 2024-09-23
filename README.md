@@ -15,10 +15,14 @@ Manually performing all of the steps necessary to complete a HybPiper analysis w
 
 
 ## Dependencies
+### Computer
+Apple M3 MacBook Pro, 18GB memory, 1TB storage  
+(NOTE: The HybPiper software below will run on Apple silicon computers (M series processors), however if you have an Intel based Apple computer use it.  HybPiper performce dramitically better on Intel processes as HybPiper does not have a version of the M series Apple computers.  However, on M seriecs computers, Apple will run the below version of HybPiper but will automatically do it in Intel emulation mode.  
+
 ### Creating A Basic Development Environment
-  Anaconda (Anaconda3-2024.02-1 MacOSX-x86_64) : https://www.anaconda.com/download  
-  Python (pycharm-community-2023.2.5) -- https://www.jetbrains.com/edu-products/download/download-thanks-pce.html  
-  R (4.3.3 -- Angel Food Cake (for Mac Intel) package: R-4.3.3-x86_64.pkg) -- A) https://www.r-project.org/ B) Select "download R"  
+  1) Miniconda (v24.7.1 Apple M1) : https://docs.anaconda.com/miniconda/#miniconda-latest-installer-links
+  2) Microsoft Visual Code : https://code.visualstudio.com/Download  
+
 ### Software Needed For This Project
   SRA Toolkit (v3.1.0 - MacOS x86-64bit) : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit  
   HybPiper (v2.1.6) : https://github.com/mossmatters/HybPiper/releases  
