@@ -7,7 +7,7 @@ Manually performing all of the steps necessary to complete a HybPiper analysis w
   3) If necessary, "trim" the FASTQ file using Trimomatic
   4) UnZip the output from the Trimomatic processing
   5) Create a "NameList", which will be used in subsequent steps, based on the FASTQ read file name(s)
-  6) Run HybPiper Assemblel
+  6) Run HybPiper Assemble
   7) Run HybPiper Stats
   8) Run HybPiper Retrieve_Sequences
   9) Run HybPiper Paralog_Retriever
