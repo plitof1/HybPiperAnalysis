@@ -24,8 +24,9 @@ Apple M3 MacBook Pro, 18GB memory, 1TB storage
   2) Microsoft Visual Code : https://code.visualstudio.com/Download or whatever development environment you prefer
 
 ### Software Needed For This Project
-  SRA Toolkit (v3.1.0 - MacOS x86-64bit) : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit  
-  HybPiper (v2.3.0) : https://github.com/mossmatters/HybPiper/releases  
-  U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz  
-  Trimmomatic (v-.039) : http://www.usadellab.org/cms/?page=trimmomatic  
+  1) SRA Toolkit (v3.1.0 - MacOS x86-64bit) : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit  
+  2) HybPiper (v2.3.0) : https://github.com/mossmatters/HybPiper/releases  
+  3) U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz  
+  4) Trimmomatic (v0.39) : http://www.usadellab.org/cms/?page=trimmomatic
+  5) JAVA - latest version (Trimmomatic is a java application)
 
