@@ -17,15 +17,15 @@ Manually performing all of the steps necessary to complete a HybPiper analysis w
 ## Dependencies
 ### Computer
 Apple M3 MacBook Pro, 18GB memory, 1TB storage  
-(NOTE: The HybPiper software below will run on Apple silicon computers (M series processors), however if you have an Intel based Apple computer use it.  HybPiper performce dramitically better on Intel processes as HybPiper does not have a version of the M series Apple computers.  However, on M seriecs computers, Apple will run the below version of HybPiper but will automatically do it in Intel emulation mode.  
+(NOTE: If you have an Intel based Apple computer, use it!  There is no M series specific software for some of the products listed below.  However, on M series computers Apple will automatically AND slowly run the Intel based softare in an emulation mode.)
 
 ### Creating A Basic Development Environment
   1) Miniconda (v24.7.1 Apple M1) : https://docs.anaconda.com/miniconda/#miniconda-latest-installer-links
-  2) Microsoft Visual Code : https://code.visualstudio.com/Download  
+  2) Microsoft Visual Code : https://code.visualstudio.com/Download or whatever development environment you prefer
 
 ### Software Needed For This Project
   SRA Toolkit (v3.1.0 - MacOS x86-64bit) : https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit  
-  HybPiper (v2.1.6) : https://github.com/mossmatters/HybPiper/releases  
+  HybPiper (v2.3.0) : https://github.com/mossmatters/HybPiper/releases  
   U.PhyloMaker (v0.1.0) : https://github.com/jinyizju/U.PhyloMaker/blob/master/U.PhyloMaker_0.1.0.tar.gz  
   Trimmomatic (v-.039) : http://www.usadellab.org/cms/?page=trimmomatic  
 
